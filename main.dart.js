@@ -57552,10 +57552,10 @@ Gg(a,b,c){return new A.cG(b,a,c)},
 gfB(){return A.a([this.a],t.G)}}
 A.Bw.prototype={
 M(a,b){var s,r,q,p=null,o="_state",n="_uri",m=A.b(A.b(A.Qx(b).gcL().a,o).f,n).gdn()
-m=A.nM(A.ew(A.fz(p,A.I_("icons/arrow.svg"),B.Q,!1,p,p,p,p,p,p,p,p,p,p,new A.Q0(b),p,p,p,p,p,p),B.ap,p,p,p),m==="/difficulties")
+m=A.nM(A.ew(A.fz(p,A.I_("assets/icons/arrow.svg"),B.Q,!1,p,p,p,p,p,p,p,p,p,p,new A.Q0(b),p,p,p,p,p,p),B.ap,p,p,p),m==="/difficulties")
 s=A.b(A.b(A.Qx(b).gcL().a,o).f,n).gdn()
 r=t.p
-s=A.jP(A.a([m,A.nM(A.ew(A.fz(p,A.I_("icons/menu.svg"),B.Q,!1,p,p,p,p,p,p,p,p,p,p,new A.Q1(b),p,p,p,p,p,p),B.ap,p,p,p),s==="/puzzle")],r),B.U,B.L)
+s=A.jP(A.a([m,A.nM(A.ew(A.fz(p,A.I_("assets/icons/menu.svg"),B.Q,!1,p,p,p,p,p,p,p,p,p,p,new A.Q1(b),p,p,p,p,p,p),B.ap,p,p,p),s==="/puzzle")],r),B.U,B.L)
 m=A.ew(A.fz(p,B.tZ,B.Q,!1,p,p,p,p,p,p,p,p,p,p,new A.Q2(b),p,p,p,p,p,p),B.ap,p,p,p)
 q=A.b(A.b(A.Qx(b).gcL().a,o).f,n).gdn()
 return new A.f8(new A.fG(B.lv,s,p),new A.fG(B.B9,A.jP(A.a([m,A.nM(A.jP(A.a([A.aP(p,p,p,B.v2,8,p,B.B4,p,8),A.ew(A.fz(p,B.u_,B.Q,!1,p,p,p,p,p,p,p,p,p,p,new A.Q3(b),p,p,p,p,p,p),B.ap,p,p,p)],r),B.U,B.L),q==="/puzzle")],r),B.U,B.L),p),p)}}
@@ -57630,7 +57630,7 @@ $S:30}
 A.a4c.prototype={
 $2(a,b){var s=this.a,r=B.bE.a4(0,A.b(A.b(s.d,"controller").y,"_value"))
 s=s.a.e
-s=A.V0(s==null?"images/character0.png":s)
+s=A.V0(s==null?"assets/images/character0.png":s)
 return new A.jX(A.WB(5*(2*(0.5-Math.abs(0.5-r))),0,0),null,!0,null,s,null)},
 $S:365}
 A.AM.prototype={
@@ -57750,7 +57750,7 @@ A.UF.prototype={
 $2(a,b){return new A.l4(Math.min(b.b,b.d),!0,null)},
 $S:369}
 A.IC.prototype={
-M(a,b){var s,r,q,p,o=null,n="images/mask.png",m="Next level",l="HandWriting",k="Play again",j=A.dp(b,!1,t.C).c.a.jq(),i=A.dl(A.aP(o,B.ME,o,o,o,o,B.cf,o,o),o,o),h=A.dl(A.aP(o,B.MI,o,o,o,o,B.cf,o,o),o,o),g=A.V0(n)
+M(a,b){var s,r,q,p,o=null,n="assets/images/mask.png",m="Next level",l="HandWriting",k="Play again",j=A.dp(b,!1,t.C).c.a.jq(),i=A.dl(A.aP(o,B.ME,o,o,o,o,B.cf,o,o),o,o),h=A.dl(A.aP(o,B.MI,o,o,o,o,B.cf,o,o),o,o),g=A.V0(n)
 B.b.gC(B.dA)
 s=A.nM(A.aP(o,A.hY(l,24,o,new A.a3n(b,j),o,m),o,o,o,o,B.d9,o,o),!0)
 r=A.dl(A.aP(o,A.hY(l,24,o,new A.a3o(b),o,k),o,o,o,o,B.d9,o,o),o,o)
@@ -57877,7 +57877,7 @@ A.xM.prototype={
 ao(){return new A.N6(B.m)}}
 A.N6.prototype={
 M(a,b){var s=this
-return A.ew(A.r1(B.bw,A.a([A.V0("images/social_distance_block.png"),A.agN(new A.fB(new A.a7N(s),null)),A.agN(new A.fB(new A.a7O(s),null))],t.p),B.Ic),B.ca,new A.a7P(s),new A.a7Q(s),null)}}
+return A.ew(A.r1(B.bw,A.a([A.V0("assets/images/social_distance_block.png"),A.agN(new A.fB(new A.a7N(s),null)),A.agN(new A.fB(new A.a7O(s),null))],t.p),B.Ic),B.ca,new A.a7P(s),new A.a7Q(s),null)}}
 A.a7P.prototype={
 $1(a){var s=this.a
 if(!s.a.c)s.aE(new A.a7M(s))},
@@ -58067,7 +58067,7 @@ J.c6(A.dp(s,!1,t.C),new A.f6(this.b))},
 $S:1}
 A.E5.prototype={
 M(a,b){var s=null,r=t.p
-r=new A.f8(A.h0(A.a([B.MT,A.kA(new A.fB(new A.U7(),s),1),B.uV],r),B.aF,B.U,B.L),A.aP(s,A.jP(A.a([B.Bd,A.kA(A.aP(s,s,s,s,s,s,s,s,s),1),A.kA(new A.fB(new A.U8(),s),6)],r),B.U,B.L),s,s,s,s,B.lw,s,s),s)
+r=new A.f8(A.h0(A.a([B.MT,A.kA(new A.fB(new A.U7(),s),1),B.uV],r),B.aF,B.U,B.L),A.aP(s,A.jP(A.a([B.Bf,A.kA(A.aP(s,s,s,s,s,s,s,s,s),1),A.kA(new A.fB(new A.U8(),s),6)],r),B.U,B.L),s,s,s,s,B.lw,s,s),s)
 return new A.wt(new A.u1(r,s,new A.U9(),s,r,s,t.SI),s)}}
 A.U9.prototype={
 $2(a,b){if(b.c===B.bk)A.U0(B.AV,new A.U6(a),t.P)},
@@ -58083,7 +58083,7 @@ $2(a,b){return A.dl(new A.l4(Math.min(b.b,b.d),!1,null),null,null)},
 $S:119}
 A.Fo.prototype={
 M(a,b){var s=null,r=A.aP(s,B.Go,s,s,s,s,B.da,s,s),q=A.aP(s,B.Gq,s,s,s,s,B.da,s,s),p=t.w,o=b.a5(p).f,n=t.p
-o=A.dl(A.aP(s,new A.hV(B.v1,A.qD(A.jP(A.a([B.Be,new A.f8(A.aP(s,s,s,s,s,s,s,s,32),A.aP(s,s,s,s,s,s,s,s,80),s),B.Bf],n),B.U,B.ct),s,o.a.a*0.3),s),s,s,s,s,B.lu,s,s),s,s)
+o=A.dl(A.aP(s,new A.hV(B.v1,A.qD(A.jP(A.a([B.Bd,new A.f8(A.aP(s,s,s,s,s,s,s,s,32),A.aP(s,s,s,s,s,s,s,s,80),s),B.Be],n),B.U,B.ct),s,o.a.a*0.3),s),s,s,s,s,B.lu,s,s),s,s)
 p=b.a5(p).f
 return A.ahd(s,A.dl(A.ac6(A.h0(A.a([r,q,o,A.dl(new A.hV(B.kE,A.qD(A.hY("HandWriting",24,s,new A.XD(b),s,"start now"),s,p.a.a*0.3),s),s,s)],n),B.bD,B.dS,B.L)),s,s))}}
 A.XD.prototype={
@@ -61873,12 +61873,12 @@ B.Bb=new A.p8(0,"noOpinion")
 B.Bc=new A.p8(1,"enabled")
 B.eL=new A.p8(2,"disabled")
 B.ch=new A.v_(0,"tight")
-B.Hn=new A.Hw(null)
-B.Bd=new A.mu(4,B.ch,B.Hn,null)
-B.wb=new A.mg(!1,!0,"images/charactera.png",null)
+B.wc=new A.mg(!1,!0,"assets/images/charactera.png",null)
+B.Bd=new A.mu(1,B.ch,B.wc,null)
+B.wb=new A.mg(!1,!0,"assets/images/characterb.png",null)
 B.Be=new A.mu(1,B.ch,B.wb,null)
-B.wc=new A.mg(!1,!0,"images/characterb.png",null)
-B.Bf=new A.mu(1,B.ch,B.wc,null)
+B.Hn=new A.Hw(null)
+B.Bf=new A.mu(4,B.ch,B.Hn,null)
 B.cg=new A.mv(0,"none")
 B.Bg=new A.mv(1,"low")
 B.db=new A.mv(2,"medium")
