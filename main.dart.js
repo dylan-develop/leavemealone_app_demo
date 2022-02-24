@@ -57630,7 +57630,7 @@ $S:30}
 A.a4c.prototype={
 $2(a,b){var s=this.a,r=B.bE.a4(0,A.b(A.b(s.d,"controller").y,"_value"))
 s=s.a.e
-s=A.V0(s==null?"assets/images/character0.png":s)
+s=A.V0(s==null?"assets/images/character0.gif":s)
 return new A.jX(A.WB(5*(2*(0.5-Math.abs(0.5-r))),0,0),null,!0,null,s,null)},
 $S:365}
 A.AM.prototype={
@@ -57750,7 +57750,7 @@ A.UF.prototype={
 $2(a,b){return new A.l4(Math.min(b.b,b.d),!0,null)},
 $S:369}
 A.IC.prototype={
-M(a,b){var s,r,q,p,o=null,n="assets/images/mask.png",m="Next level",l="HandWriting",k="Play again",j=A.dp(b,!1,t.C).c.a.jq(),i=A.dl(A.aP(o,B.ME,o,o,o,o,B.cf,o,o),o,o),h=A.dl(A.aP(o,B.MI,o,o,o,o,B.cf,o,o),o,o),g=A.V0(n)
+M(a,b){var s,r,q,p,o=null,n="assets/images/mask.gif",m="Next level",l="HandWriting",k="Play again",j=A.dp(b,!1,t.C).c.a.jq(),i=A.dl(A.aP(o,B.ME,o,o,o,o,B.cf,o,o),o,o),h=A.dl(A.aP(o,B.MI,o,o,o,o,B.cf,o,o),o,o),g=A.V0(n)
 B.b.gC(B.dA)
 s=A.nM(A.aP(o,A.hY(l,24,o,new A.a3n(b,j),o,m),o,o,o,o,B.d9,o,o),!0)
 r=A.dl(A.aP(o,A.hY(l,24,o,new A.a3o(b),o,k),o,o,o,o,B.d9,o,o),o,o)
@@ -57877,7 +57877,7 @@ A.xM.prototype={
 ao(){return new A.N6(B.m)}}
 A.N6.prototype={
 M(a,b){var s=this
-return A.ew(A.r1(B.bw,A.a([A.V0("assets/images/social_distance_block.png"),A.agN(new A.fB(new A.a7N(s),null)),A.agN(new A.fB(new A.a7O(s),null))],t.p),B.Ic),B.ca,new A.a7P(s),new A.a7Q(s),null)}}
+return A.ew(A.r1(B.bw,A.a([A.V0("assets/images/social_distance_block.gif"),A.agN(new A.fB(new A.a7N(s),null)),A.agN(new A.fB(new A.a7O(s),null))],t.p),B.Ic),B.ca,new A.a7P(s),new A.a7Q(s),null)}}
 A.a7P.prototype={
 $1(a){var s=this.a
 if(!s.a.c)s.aE(new A.a7M(s))},
