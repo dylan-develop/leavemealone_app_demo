@@ -58316,11 +58316,11 @@ s=t.Od
 r=l.kl()&&k===B.a2?80:136
 q=l.kl()&&k===B.a2?"Next Level":"Shuffle"
 p=j===B.e7
-m=A.yM(A.az(o,A.mf(n,24,40,A.be(0,p?i+l.dE().b.length*50+2000+500:0),!0,new A.cy(k,s),8,o,new A.QM(l,k,b),q,r),B.i,o,o,o,o,o,B.Bi,o,o,o,o),m)
+m=A.yM(A.az(o,A.mf(n,24,40,A.be(0,p?i+l.dE().b.length*50+2000+500:0),!0,new A.cy(k,s),4,o,new A.QM(l,k,b),q,r),B.i,o,o,o,o,o,B.Bi,o,o,o,o),m)
 r=k===B.a2
 q=r?136:80
 r=r?"Play Again":"Hint"
-return A.az(o,A.eb(A.a([m,A.mf(n,24,40,A.be(0,p?i+l.dE().b.length*50+2000+500:0),!0,new A.cy(k,s),8,o,new A.QN(k,b),r,q)],t.p),B.C,B.ft,B.G),B.i,o,o,o,o,o,o,B.eN,o,o,o)}}
+return A.az(o,A.eb(A.a([m,A.mf(n,24,40,A.be(0,p?i+l.dE().b.length*50+2000+500:0),!0,new A.cy(k,s),4,o,new A.QN(k,b),r,q)],t.p),B.C,B.ft,B.G),B.i,o,o,o,o,o,o,B.eN,o,o,o)}}
 A.QJ.prototype={
 $1(a){return a.c.a},
 $S:41}
