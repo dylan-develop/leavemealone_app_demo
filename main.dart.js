@@ -63477,19 +63477,19 @@ case 2:p=o.qq()
 s=p===B.c9?5:7
 break
 case 5:s=8
-return A.u(q.a.d.fi("assets/audio/female_cough.mp3"),$async$$0)
+return A.u(q.a.d.fi("assets/audio/female_cough.wav"),$async$$0)
 case 8:s=6
 break
 case 7:s=p===B.ca?9:10
 break
 case 9:s=11
-return A.u(q.a.d.fi("assets/audio/male_cough.mp3"),$async$$0)
+return A.u(q.a.d.fi("assets/audio/male_cough.wav"),$async$$0)
 case 11:case 10:case 6:J.bA(A.ck(q.d,!1,t.C),new A.ho(p))
 s=3
 break
 case 4:o=q.a.d
 s=12
-return A.u(o.fi("assets/audio/sneeze.mp3"),$async$$0)
+return A.u(o.fi("assets/audio/sneeze.wav"),$async$$0)
 case 12:s=13
 return A.u(o.cb(0),$async$$0)
 case 13:s=14
@@ -63796,13 +63796,13 @@ case 2:p=q.c.qq()
 s=p===B.c9?5:7
 break
 case 5:s=8
-return A.u(q.a.d.fi("assets/audio/female_cough.mp3"),$async$$0)
+return A.u(q.a.d.fi("assets/audio/female_cough.wav"),$async$$0)
 case 8:s=6
 break
 case 7:s=p===B.ca?9:10
 break
 case 9:s=11
-return A.u(q.a.d.fi("assets/audio/male_cough.mp3"),$async$$0)
+return A.u(q.a.d.fi("assets/audio/male_cough.wav"),$async$$0)
 case 11:case 10:case 6:o=q.a.d
 s=12
 return A.u(o.cb(0),$async$$0)
@@ -63815,7 +63815,7 @@ s=3
 break
 case 4:o=q.a.d
 s=15
-return A.u(o.fi("assets/audio/sneeze.mp3"),$async$$0)
+return A.u(o.fi("assets/audio/sneeze.wav"),$async$$0)
 case 15:s=16
 return A.u(o.cb(0),$async$$0)
 case 16:s=17
@@ -64053,7 +64053,7 @@ while(true)switch(s){case 0:p=q.a
 o=p.e
 n=q.b
 s=2
-return A.u(o.fi("assets/audio/"+p.d[n]+".mp3"),$async$$0)
+return A.u(o.fi("assets/audio/"+p.d[n]+".wav"),$async$$0)
 case 2:s=3
 return A.u(o.cb(0),$async$$0)
 case 3:s=4
@@ -64151,13 +64151,13 @@ while(true)switch(s){case 0:o=q.b.qq()
 s=o===B.c9?2:4
 break
 case 2:s=5
-return A.u(q.a.d.fi("assets/audio/female_cough.mp3"),$async$$0)
+return A.u(q.a.d.fi("assets/audio/female_cough.wav"),$async$$0)
 case 5:s=3
 break
 case 4:s=o===B.ca?6:7
 break
 case 6:s=8
-return A.u(q.a.d.fi("assets/audio/male_cough.mp3"),$async$$0)
+return A.u(q.a.d.fi("assets/audio/male_cough.wav"),$async$$0)
 case 8:case 7:case 3:p=q.a.d
 s=9
 return A.u(p.cb(0),$async$$0)
@@ -64195,13 +64195,13 @@ while(true)switch(s){case 0:o=q.b.qq()
 s=o===B.c9?2:4
 break
 case 2:s=5
-return A.u(q.a.d.fi("assets/audio/female_cough.mp3"),$async$$0)
+return A.u(q.a.d.fi("assets/audio/female_cough.wav"),$async$$0)
 case 5:s=3
 break
 case 4:s=o===B.ca?6:7
 break
 case 6:s=8
-return A.u(q.a.d.fi("assets/audio/male_cough.mp3"),$async$$0)
+return A.u(q.a.d.fi("assets/audio/male_cough.wav"),$async$$0)
 case 8:case 7:case 3:p=q.a.d
 s=9
 return A.u(p.cb(0),$async$$0)
@@ -64287,7 +64287,7 @@ $S:27}
 A.yK.prototype={
 ad(){return A.aF9()}}
 A.P5.prototype={
-aS(){A.aku(A.a(["assets/audio/female_cough.mp3","assets/audio/male_cough.mp3","assets/audio/sneeze.mp3"],t.s))
+aS(){A.aku(A.a(["assets/audio/female_cough.wav","assets/audio/male_cough.wav","assets/audio/sneeze.wav"],t.s))
 this.ba()},
 H(a,b){var s=A.a([A.ap6(new A.afc(),t.C),A.ap6(new A.afd(),t.bq)],t.uJ),r=A.alx(b).IW(!1),q=this.d
 return A.aCb(new A.ys(new A.Vm(),q,new A.ED(q,new A.bC(A.a([],t.Zt),t.Mu)),"Leave Me Alone",A.arA(null,B.k),!1,r,null),s)}}
@@ -64487,7 +64487,7 @@ $0(){var s=0,r=A.C(t.P),q=this,p
 var $async$$0=A.D(function(a,b){if(a===1)return A.z(b,r)
 while(true)switch(s){case 0:p=q.a.d
 s=2
-return A.u(p.fi("assets/audio/sneeze.mp3"),$async$$0)
+return A.u(p.fi("assets/audio/sneeze.wav"),$async$$0)
 case 2:s=3
 return A.u(p.cb(0),$async$$0)
 case 3:s=4
